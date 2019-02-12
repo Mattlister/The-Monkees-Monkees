@@ -81,3 +81,9 @@ body {
   background: #dd4b39;
   color: white;
 }
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
