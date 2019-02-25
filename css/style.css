@@ -9,6 +9,8 @@
     height: 100vh;
 
     background: url('/images/monkees bw.jpg') no-repeat center center fixed;
+    
+    
 
 
     display: flex;
@@ -18,6 +20,12 @@
     position: relative;
 }
 
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
 
 .content-container {
     padding-top: 75px;
