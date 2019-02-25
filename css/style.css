@@ -9,10 +9,7 @@
     height: 100vh;
 
     background: url('/images/monkees bw.jpg') no-repeat center center fixed;
-    -webkit-background-size: fixed;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+
 
     display: flex;
     align-items: center;
@@ -44,20 +41,6 @@
     width: 160px;
 }
 
-.btn--red {
-    color: white;
-    background-color: #f05f40;
-    border-color: #f05f40;
-}
-
-.btn--red:hover,
-.btn--red:active,
-.btn--red:focus,
-.btn--red:active:focus {
-    background-color: #df4929;
-    border-color: #df4929;
-    color: white;
-}
 
 .social-links {
     text-align: center;
@@ -89,9 +72,4 @@
   color: white;
 }
 
-.card {
-        margin: 10 auto; /* Added */
-        float: none; /* Added */
-        margin-bottom: 10px; /* Added */
-}
 
