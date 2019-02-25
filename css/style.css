@@ -9,9 +9,10 @@
     height: 100vh;
 
     background: url('/images/monkees bw.jpg') no-repeat center center fixed;
-    
-    
-
+    -webkit-background-size: fixed;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 
     display: flex;
     align-items: center;
@@ -20,12 +21,6 @@
     position: relative;
 }
 
-.center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-}
 
 .content-container {
     padding-top: 75px;
@@ -80,4 +75,9 @@
   color: white;
 }
 
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
 
