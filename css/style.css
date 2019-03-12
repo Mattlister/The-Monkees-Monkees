@@ -6,6 +6,9 @@
   background-color: blue;
 }
 
+.body {
+	margin: 0;
+}
 
 /* Main content */
 .main {
