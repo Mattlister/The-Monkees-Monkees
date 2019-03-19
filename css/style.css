@@ -88,6 +88,8 @@
 .fa-google {
   background: #dd4b39;
   color: white;
+  align-items: center !important;
+  justify-content: center !important;
 }
 
 .card {
@@ -96,3 +98,8 @@
         margin-bottom: 10px; /* Added */
 }
 
+.social-icons-lists {
+display: flex !important;
+align-items: center !important;
+justify-content: center !important;
+}
