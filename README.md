@@ -1,6 +1,6 @@
-The Monkees Website
+<h1>The Monkees Website</h1>
 
-Website GitHub pages
+<h2>Website GitHub pages</h2>
 
 The project I’ve designed is my first milestone project for the User Centric Frontend Development module of the Full Stack Developer Course. I’ve used some HTML as the main backbone layout for the page along with functionality and elements from bootstrap and CSS. The page consists of 4 main pages including a Home page, a Merchandise page a Touring page and a Contact Us page.
 
@@ -63,4 +63,4 @@ The music video and images used within the site were all provided through the co
 Acknowledgements
 
 The Wikipedia pages and social media sites are dedicated to the band and I’m grateful they were available as they allowed my page to be a good platform to start a fans love for the Monkees.
-0
+
