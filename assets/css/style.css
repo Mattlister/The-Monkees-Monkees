@@ -10,9 +10,14 @@
 	margin: 0;
 }
 
+.mt-0 {
+  margin-top: 0 !important;
+}
+
+
 /* Main content */
 .main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
+  margin-top: 50px; /* Add a top margin to avoid content overlay */
 }
 
 /* Containers */
@@ -42,7 +47,7 @@
     padding-bottom: 75px;
 }
 
-/* Navbar */
+
 
 /*list */
 
