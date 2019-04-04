@@ -23,24 +23,6 @@
 /* Containers */
 
 
-
-
-.callout-container {
-    height: 100vh;
-    background: url('/assets/images/mainimage1.jpg');
-    -webkit-background-size: fixed;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative;
-}
-
-
 .content-container {
     padding-top: 75px;
     padding-bottom: 75px;
@@ -69,7 +51,6 @@
   cursor: pointer;
   transition: 0.3s;
 }
-
 
 
 .social-links {
@@ -104,3 +85,9 @@
         margin-bottom: 10px; /* Added */
 }
 
+.myClass{
+  background: #ecedea;
+  padding: 10px 10px;
+  display: inline-block;
+  margin-right: 20px;
+}
