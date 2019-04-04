@@ -28,7 +28,7 @@
 .callout-container {
     height: 100vh;
 
-    background: url("/assets/images/mainimage1.jpg");
+    background: url('"assets/images/mainimage1.jpg"');
     -webkit-background-size: fixed;
     -moz-background-size: cover;
     -o-background-size: cover;
