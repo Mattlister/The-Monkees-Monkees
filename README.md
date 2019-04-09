@@ -2,7 +2,7 @@
 
 <h2>Website GitHub pages</h2>
 
-The project I’ve designed is my first milestone project for the User Centric Frontend Development module of the Full Stack Developer Course. I’ve used some HTML as the main backbone layout for the page along with functionality and elements from bootstrap and CSS. The page consists of 4 main pages including a Home page, a Merchandise page a Touring page and a Contact Us page.
+<p>The project I’ve designed is my first milestone project for the User Centric Frontend Development module of the Full Stack Developer Course. I’ve used some HTML as the main backbone layout for the page along with functionality and elements from bootstrap and CSS. The page consists of 4 main pages including a Home page, a Merchandise page a Touring page and a Contact Us page.
 
 It includes a video of the band performing one of their songs. Information about the band and their members. Where you can see them playing live and how you can contact them if you wanted to book them to perform. There’s also interactive content and links to their own Monkees sites so you can review them in their genuine environment and not just the mockup site.
 
