@@ -1,5 +1,5 @@
 .body {
-    font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .nav .current {
@@ -7,7 +7,7 @@
 }
 
 .body {
-	margin: 0;
+  margin: 0;
 }
 
 .mt-0 {
@@ -16,36 +16,45 @@
 
 
 /* Main content */
+
 .main {
-  margin-top: 50px; /* Add a top margin to avoid content overlay */
+  margin-top: 50px;
+  /* Add a top margin to avoid content overlay */
 }
 
 /* Containers */
 
-
 .content-container {
-    padding-top: 75px;
-    padding-bottom: 75px;
+  padding-top: 75px;
+  padding-bottom: 75px;
 }
 
 /* Navbar */
 
 /*list */
 
-.li{
+.li {
   margin: 10px 0;
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item .nav-link:active,
+.navbar-light .nav-item .nav-link:focus,
+.navbar-light .nav-item:hover .nav-link {
+  color: #00B159;
 }
 
 
 /* Buttons */
 
 .btn--cta {
-    font-weight: bold;
-    border-radius: 23px;
-    width: 160px;
+  font-weight: bold;
+  border-radius: 23px;
+  width: 160px;
 }
 
 /* Style the Image Used to Trigger the Modal */
+
 #myImg {
   border-radius: 5px;
   cursor: pointer;
@@ -54,21 +63,19 @@
 
 
 .social-links {
-    text-align: center;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    color: #5B5BD8;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: #5B5BD8;
 }
 
 .fa:hover {
-    opacity: 0.7;
+  opacity: 0.7;
 }
 
-.footer
-
-.fa-facebook {
+.footer .fa-facebook {
   background: #3B5998;
   color: white;
 }
@@ -80,12 +87,15 @@
 
 
 .card {
-        margin: 0 auto; /* Added */
-        float: none; /* Added */
-        margin-bottom: 10px; /* Added */
+  margin: 0 auto;
+  /* Added */
+  float: none;
+  /* Added */
+  margin-bottom: 10px;
+  /* Added */
 }
 
-.myClass{
+.myClass {
   background: #ecedea;
   padding: 10px 10px;
   display: inline-block;
