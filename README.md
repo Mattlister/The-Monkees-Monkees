@@ -45,28 +45,56 @@ buttons. Below these 8 images, there is again the social medial links with the F
 
 A page designed so that the fans can contact the band for either a booking or just to say Hi!! 
 
-Hopes for the website are:
+Underneath the black and white image, there's a grid system set of 3. On the left, there's a paragraph with some info about the band and a blue
+booking form. Clicking on here brings up fully functional booking form within a Modal card. You can add an email address, choose how many hours 
+you'd like the band to play. You can choose the event such as a wedding or a party and also add extra imformation before submitting.
 
-I made the website for the fans and tried to make it look up to date with easy to use functionality. I also like to think it could be a good base platform website as you can link here and then go on to other pages to find more in depth information, opportunities to purchase memorabilia and follow the band as the remaining members continue to tour. I wanted the site to be easy to use for all users of all ages and so:
+Then a colourful image of the band in their youthful days which I named 'Pastel colours' which stand out in the centre of the page. Then, there's
+third column with a message from the band. They love to hear from their fans and using the 'Get In Touch' button, you can do that to send a message
+and say hello. Tell them how their music speaks to you and how you've been a fan of this outstanding band. The social media links complete the page.
+
+<h3>Touring</h3>
+
+This band has been touring for over 50 years and even as a twosome, they still have the passion to do it. The usual image spreads across the page
+below the Navigation bar and below the image sits 3 columns again. Staying consistent with the rest of the page, there's 2 paragraphs of information
+on each side of an image of the band playing live. Below the paragraphs, there's 2 Modal content buttons. Clicking on the 'Australian Tour Dates' 
+button brings up a Modal card of their Australina dates and the same can be show in Blue for the 'American Tour Dates' 
+Again, each Modal card has a blue and a green background to tie into their respective buttons and staying the same throughout the website.
+
+<h3>Hopes for the website are:</h3>
+
+I made the website for the fans and tried to make it look up to date with easy to use functionality. I also like to think it could be a good base 
+platform website as you can link here and then go on to other pages to find more in depth information, opportunities to purchase memorabilia and 
+follow the band as the remaining members continue to tour. I wanted the site to be easy to use for all users of all ages and so:
 
 •	Showcase the band 
 
 •	Allow the user to follow them, purchase items or arrange private bookings
 
-•	Nice design that each user will be able to move around the site with. This is designed for fans of all ages.
+•	Nice design that allows each user to move around the site comfortably. This is designed for fans of all ages.
 
 •	Clean, clear and easy to use.
 
 
-Using a scrolling image method with a fixed element, the band is shown in all their glory in black and white as the initial image and as you scroll down each page, you can find out more and look at products regarding the band.
+
 
 UX
 
-My initial design was all done by hand with a layout in mind. When I first started my project and spoke to my Mentor, I had various ideas of how I wanted the page to look with a strong background image to showcase the look of the band. Showing togetherness and them performing at the height of their career. The black and white image provided for the course I found to be perfect, it’s clean, crisp and there seems to be passion behind the photo. 
+Using a scrolling image method with a fixed element, the band is shown in all their glory in black and white as the initial 
+image and as you scroll down each page, you can find out more and look at products regarding the band.
+
+My initial design was all done by hand with a layout in mind. When I first started my project and spoke to my Mentor, I had 
+various ideas of how I wanted the page to look with a strong background image to showcase the look of the band. Showing 
+togetherness and them performing at the height of their career. The black and white image provided for the course I found 
+to be perfect, it’s clean, crisp and there seems to be passion behind the photo. 
 
 The movement of the page is subtle but sharp and the static image against a moving page adds a professional element to the site. 
 
-I wanted the site to be easy to use for all users of all ages. The Monkees will always have older fans naturally due to when they were popular and so this site has been developed with that in mind. A user could easily find their way around and the page isn’t overloaded with information. There’s short simple info about the band members for the users but the option to find out more is available via links to the 4 guy’s Wikipedia pages. Newer fans can use these links to get to each page, you can go to the YouTube, Facebook and Twitter pages to find tour dates, hear their music and purchase merchandise direct.
+I wanted the site to be easy to use for all users of all ages. The Monkees will always have older fans naturally due to when 
+they were popular and so this site has been developed with that in mind. A user could easily find their way around and the 
+page isn’t overloaded with information. There’s short simple info about the band members for the users but the option to 
+find out more is available via links to the 4 guy’s Wikipedia pages. Newer fans can use these links to get to each page, 
+you can go to the YouTube, Facebook and Twitter pages to find tour dates, hear their music and purchase merchandise direct.
 
 Site Interactivity and Features
 
@@ -85,5 +113,6 @@ The music video and images used within the site were all provided through the co
 
 Acknowledgements
 
-The Wikipedia pages and social media sites are dedicated to the band and I’m grateful they were available as they allowed my page to be a good platform to start a fans love for the Monkees.
+The Wikipedia pages and social media sites are dedicated to the band and I’m grateful they were available as they allowed my page to 
+be a good platform to start a fans love for the Monkees.
 
