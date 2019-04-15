@@ -2,11 +2,15 @@
 
 <h2>Website GitHub pages</h2>
 
-<p>The project I’ve designed is my first milestone project for the User Centric Frontend Development module of the Full Stack Developer Course. I’ve used some HTML as the main backbone layout for the page along with functionality and elements from bootstrap and CSS. The page consists of 4 main pages including a Home page, a Merchandise page a Touring page and a Contact Us page.
+<p>The project I’ve designed is my first milestone project for the User Centric Frontend Development module of the Full Stack Developer Course. 
+I’ve used some HTML as the main backbone layout for the page along with functionality and elements from bootstrap and CSS. The page consists 
+of 4 main pages including a Home page, a Merchandise page a Touring page and a Contact Us page.</p>
 
-It includes a video of the band performing one of their songs. Information about the band and their members. Where you can see them playing live and how you can contact them if you wanted to book them to perform. There’s also interactive content and links to their own Monkees sites so you can review them in their genuine environment and not just the mockup site.
+<p>It includes a video of the band performing one of their songs. Information about the band and their members. Where you can see them playing 
+live and how you can contact them if you wanted to book them to perform. There’s also interactive content and links to their own Monkees sites 
+so you can review them in their genuine environment and not just the mockup site.
 
-How I’d like the website to be perceived:
+<H3>How I’d like the website to be perceived:</H3>
 
 •	A site that can be viewed by old and new fans for everyone to enjoy
 
@@ -14,13 +18,23 @@ How I’d like the website to be perceived:
 
 •	Nice UX design that is easy to follow, engaging for a user to understand and follow. 
 
-Home Page
+<h3>Home Page</h3>
 
-On the Home Page, a striking black and white image is displayed with page links to in the very top menu. Below the image are 4 individual boxes displaying each band member. The box lay out has a clean grey frame and within each frame, there’s a photo of a band member and a paragraph containing a key piece of information. Below said paragraph, there’s a “Read More” button which when clicked on, you’re taken to that band members Wikipedia page.
+On the Home Page, a striking black and white image of the band performing is displayed with page links at the top with white lettering. 
+Below the image are 4 individual paragraphs and buttons underneath each one. The paragraphs are inline with their band members and contains
+a short piece of information about the band member. The button underneath displays the members names and clicking on each button displays 
+a modal card with an image of that band member and some more information. You'll notice when clicking on the modal button, along with the
+image, there's colour to the background and a close button.
 
-Scrolling further down and below the band members mini-biography, there’s a playable video of their unmistakable classic hit ‘Daydream Believer’ which was one of their biggest songs. As a colourful video, it stands out so you focus and watch the video without distraction.
+Further down below the band paragraphs, there’s a playable video of their unmistakable classic hit ‘Daydream Believer’ which was one of 
+their biggest songs. As a colourful video, it stands out so you focus and watch the video without distraction.
 
-There’s then a grey boxed frame below the video which spans the width of the page. Within there, a link to various social media is displayed including Facebook, Twitter and YouTube. These are consistent on each page of the website.
+Then at the very bottom there are various social media links which take you to their Facebook, Twitter and YouTube pages respectively.
+The link images are from Font Awesome and are on each page for consistency.
+
+<h3>Our Merchandise</h3>
+
+This page again has the large black and white image with the black and white nav bar. Below the image, we have 8 individual pages
 
 Hopes for the website are:
 
