@@ -34,7 +34,16 @@ The link images are from Font Awesome and are on each page for consistency.
 
 <h3>Our Merchandise</h3>
 
-This page again has the large black and white image with the black and white nav bar. Below the image, we have 8 individual pages
+This page again has the large black and white image with the black and white nav bar. Below the image, we have 8 individual paragraphs
+in 2 lines of 4. Each each paragraph, there's an image of either a record or a poster that can be purchased. There's also an Order button
+which when clicked, a Modal card is displayed with an image of the record or poster. For the records, there's a track listing and for the 
+posters, there are sizes in which you can get a copy of the print for your wall or as a post card. The record modal boxes are displayed with
+blue background to match their blue 'Order Here' buttons and the posters Modal card have a green background to match their green 'Order Here'
+buttons. Below these 8 images, there is again the social medial links with the Font Awesome icons.
+
+<h3>Get in Touch</h3>
+
+A page designed so that the fans can contact the band for either a booking or just to say Hi!! 
 
 Hopes for the website are:
 
