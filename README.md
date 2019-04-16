@@ -163,23 +163,13 @@ __Each page has the same main image at the top to add consistency through the si
 Under each page, the content varies slightly.
 
 
-The pricing page features two tables, which list example sizes of artwork and guideline prices. One table for drawings and a second one for paintings. The tables are displayed next to each other on desktop and tablet, and stacked on top of each other for mobiles.
 
-Below the tables some small print briefly explains why the prices given are guideline only and encourages the user to request a quote for their own custom order.
-
-At the bottom of the page the call to action button guides the user to learn How to Order.
-
-How to Order
-The How to Order page features the 5 numbered steps involved in ordering a custom artwork. Each step features a large, obvious icon, and a brief learnable explanation of the step.
-
-Below the order timeline the user is informed how long their order is likely to take to be completed, one timescale each for drawings and paintings.
-
-At the bottom of the page the call to action button guides the user to Request a Quote and they are taken to the Contact page.
 
 Contact
-The Contact page features a contact form, which requests client name and email, provides a place to upload a photograph, and below that a box to leave a message. At the bottom of the form clients can upload photograph(s) they want the artist to use.
+The Contact page features a contact form, which requests client name and email, p that a box to leave a message. At 
 
-The bottom of the form contains a Send Button
+
+The bottom of the form contains a Submit Button
 
 Deployment
 
