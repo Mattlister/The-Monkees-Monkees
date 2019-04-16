@@ -4,73 +4,80 @@
 
 
 The project I’ve designed is my first milestone project for the User Centric Frontend Development module of the Full Stack Developer Course. 
-I’ve used some HTML as the main backbone layout for the page along with functionality and elements from bootstrap and CSS. The page consists 
-of 4 main pages including a Home page, a Merchandise page a Touring page and a Contact Us page.</p>
+I’ve used Bootstrap as the main backbone language allowing functionality and responsive design which sits in an HTML shell and with added
+elements of CSS to add styling. The page consists of 4 pages. They include a Home page, a Merchandise page a Touring page and a Contact Us page.
 
-<p>It includes a video of the band performing one of their songs. Information about the band and their members. Where you can see them playing 
+The site includes a music video of the band performing one of their songs. Information about the 4 members. Where you can see them playing 
 live and how you can contact them if you wanted to book them to perform. There’s also interactive content and links to their own Monkees sites 
-so you can review them in their genuine environment and not just the mockup site.
+so you can review them in their genuine environment and not just this mockup site.
 
 ###How I’d like the website to be perceived:
 
 •	A site that can be viewed by old and new fans for everyone to enjoy
 
-•	A source of material where you can find out about the band, where they’re playing and how you can interact with them.
+•	A source of material where you can find some information about The Monkees where they’re playing and how you can interact with them.
 
-•	Nice UX design that is easy to follow, engaging for a user to understand and follow. 
+•	Nice UX design that is easy to follow and engaging. 
 
 ###Home Page
 
-On the Home Page, a striking black and white image of the band performing is displayed with page links at the top with white lettering. 
-Below the image are 4 individual paragraphs and buttons underneath each one. The paragraphs are inline with their band members and contains
-a short piece of information about the band member. The button underneath displays the members names and clicking on each button displays 
-a modal card with an image of that band member and some more information. You'll notice when clicking on the modal button, along with the
-image, there's colour to the background and a close button.
+On the Home Page, a deep grey colour navigation bar sits above a striking black and white image of the band performing in concert.
+The navigation bar has 5 headed titles. One is the title and also a link back to the home page as well as 4 other titled links taking
+you to the rest of the site pages.
+
+Below the image are 4 individual paragraphs and a button underneath each one. The paragraphs contain information about each band member
+and you'll notice they line up with the relevant member in the photo. The paragrpah contains a short piece of information about them each. 
+
+The button underneath displays the members names and clicking on each one brings up a modal card with an image of that band member 
+and some more information. You'll notice when clicking on the modal button, along with the image, there's colour to the background 
+and a designed close button.
 
 Further down below the band paragraphs, there’s a playable video of their unmistakable classic hit ‘Daydream Believer’ which was one of 
-their biggest songs. As a colourful video, it stands out so you focus and watch the video without distraction.
+their biggest songs. As a bright and colourful video, it stands out so you focus and watch the video without distraction.
 
-Then at the very bottom there are various social media links which take you to their Facebook, Twitter and YouTube pages respectively.
+Then at the very bottom there are three social media links which take you to their Facebook, Twitter and YouTube pages respectively.
 The link images are from Font Awesome and are on each page for consistency.
 
 ###Our Merchandise
 
-This page again has the large black and white image with the black and white nav bar. Below the image, we have 8 individual paragraphs
-in 2 lines of 4. Each each paragraph, there's an image of either a record or a poster that can be purchased. There's also an Order button
-which when clicked, a Modal card is displayed with an image of the record or poster. For the records, there's a track listing and for the 
-posters, there are sizes in which you can get a copy of the print for your wall or as a post card. The record modal boxes are displayed with
-blue background to match their blue 'Order Here' buttons and the posters Modal card have a green background to match their green 'Order Here'
-buttons. Below these 8 images, there is again the social medial links with the Font Awesome icons.
+This page again has the large black and white image below the navigation bar. As you scroll down, you'll see 8 individual paragraphs
+divided into two lines of four. In each paragraph, there's an image of either a record or a poster that can be purchased. There's also 
+an Order button which when clicked, a Modal card is displayed with an image of the record or poster for purchase. For the records, there's 
+a track listing and for the posters, there are sizes orders which you can get a copy off. The print could be for your wall or as a post card. 
+The record modal boxes are displayed with blue background to match the blue 'Order Here' buttons and the posters Modal card have a green 
+background to match their green 'Order Here'buttons. In the Modals, there's also a designed close button again correspondig in colour to the 
+rest of the content. Below these 8 images, there is again the social medial links with the Font Awesome icons.
 
 ###Get in Touch
 
-A page designed so that the fans can contact the band for either a booking or just to say Hi!! 
+A page designed allowing fans to contact the band for either a booking or just to say Hi!! 
 
 Underneath the black and white image, there's a grid system set of 3. On the left, there's a paragraph with some info about the band and a blue
-booking form. Clicking on here brings up fully functional booking form within a Modal card. You can add an email address, choose how many hours 
+booking button. Clicking on here brings up a fully functional booking form within a Modal card. You can add an email address, choose how many hours 
 you'd like the band to play. You can choose the event such as a wedding or a party and also add extra imformation before submitting.
 
-Then a colourful image of the band in their youthful days which I named 'Pastel colours' which stand out in the centre of the page. Then, there's
+Then a colourful image of the band in their youthful days stands out in the centre of the page. Then, there's
 third column with a message from the band. They love to hear from their fans and using the 'Get In Touch' button, you can do that to send a message
 and say hello. Tell them how their music speaks to you and how you've been a fan of this outstanding band. The social media links complete the page.
 
 ###Touring
 
 This band has been touring for over 50 years and even as a twosome, they still have the passion to do it. The usual image spreads across the page
-below the Navigation bar and below the image sits 3 columns again. Staying consistent with the rest of the page, there's 2 paragraphs of information
+below the Navigation bar and below the image sits 3 columns again. Staying consistent with the rest of the site, there's 2 paragraphs of information
 on each side of an image of the band playing live. Below the paragraphs, there's 2 Modal content buttons. Clicking on the 'Australian Tour Dates' 
 button brings up a Modal card of their Australina dates and the same can be show in Blue for the 'American Tour Dates' 
-Again, each Modal card has a blue and a green background to tie into their respective buttons and staying the same throughout the website.
+Again, each Modal card has a blue and a green background to tie into their respective buttons and staying the same throughout the website. A designed
+close button can then be found at the bottom.
 
 ###Hopes for the website are:
 
 I made the website for the fans and tried to make it look up to date with easy to use functionality. I also like to think it could be a good base 
 platform website as you can link here and then go on to other pages to find more in depth information, opportunities to purchase memorabilia and 
-follow the band as the remaining members continue to tour. I wanted the site to be easy to use for all users of all ages and so:
+follow the band as the remaining members continue to tour. I wanted the site to be easy to use for all users of all ages and so to:
 
 •	Showcase the band 
 
-•	Allow the user to follow them, purchase items or arrange private bookings
+•	Allow the users to follow them, purchase items or arrange private bookings
 
 •	Nice design that allows each user to move around the site comfortably. This is designed for fans of all ages.
 
