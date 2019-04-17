@@ -63,6 +63,9 @@ When I first started the site, my original design was done in Bootstrap 3 but af
    of the Modal connecting to the "display" was difficult because of the layout of the structure. The 4 paragraphs with their Name related buttons all
    sat together in a groupd of 4. Thr "display" design code all sat below this so it wasn't 1 to 2, 3 to 4, 5 to 6, 7 to 8. It was 1 to 5, 2 to 6, 3 to
    7 and 4 to 8 otherwise they didn't sit right on the page. Using this grid and modal system, I was able to replicate onto the other pages after testing.
+   I did initally have some inline styles adding padding around the Modal images but I since changed it to add padding around the whole card. I also 
+   changed the colour of the buttons and each one was colour coordinated from the click button, to the layout colour of the Modal and the close button
+   on the Modal card itself.
    
 4. The music video again, this seemed like an easy thing to add intially and sat "center" on the page but I found this weas incorrect and so putting 
     together another grid layout lined up the video to display in the middle of the page. 
@@ -70,3 +73,46 @@ When I first started the site, my original design was done in Bootstrap 3 but af
 5. The footers. I orginally had a different standard design for the footer social media links but after researching more, I was able to add the newer
    designed looking icons from Font Awesome and they displayed better. I then added the relevant URL to the social media code and tesred offering fully
    functional pages which open on new tabs so leaving the site doesn't happen.
+
+#Our Merchandise
+
+1. The Navigation Bar. The same testing was carried out as the homr page through out the site. Tested and working.
+
+2. The main Hero Image was again, consitently tested throughout the site. Tested and working.
+
+3. The Merchandise. I again used the grid layout with spacing in 2 rows of information. These rows then had Modald integrated into it, again the design
+   had to be done 1 to 5 etc but there were 8 to add altogether which took some work and testing. I then added again, the same colour design so the 
+   design of the Modal colour applied all the way through.
+
+4. The footers were the same as the Home page for consistency.Tested and working.
+
+# Get in Touch
+
+1. The Navigation Bar. The same testing was carried out as the homr page through out the site. Tested and working.
+
+2. The main Hero Image was again, consitently tested throughout the site. Tested and working.
+
+3. Another grid system but with more complicated code which I took from W3C and edited so it laid out as I wanted it too. Both the Booking and Get In 
+   Touch forms started off exactly the same but one is more developed than the other. I had to strip the Get In Touch down so it was a simple text box.
+   There were easier ways to do it but the Form function concept was perfect for what I wanted and so making changes and testing took time as I removed
+   a lot of information. Then, to make things more complicated, I wanted to add colour coding and a frame around the pop up Modals so they looked the 
+   same as the rest of the site. Using CSS to my advantage and some none inline styles advised by my Mentor, I found the perfect combination but each
+   stage was difficult and so thorough testing was carried out. The main booking Form took time as I had to edit the wording and add to it so there were
+   more options such as times for the band to play etc but it gave me a fully working form which was good.
+
+4. The footers were the same as the Home page for consistency. Tested and working.
+
+# Touring
+
+1. The Navigation Bar. The same testing was carried out as the homr page through out the site. Tested and working.
+
+2. The main Hero Image was again, consitently tested throughout the site. Tested and working.
+
+3. Adding thr touring buttons and testing was a much simpler process than the booking forms but still required a grid system and Modals. These again
+   had to be added in the correct manner so the page laid out correctly and even though I said it was simpler, there were still moments when I was
+   scratching my head. Once the layout was working correctly and there was a functional Modal, I then designed it the same as the other with CSS.
+
+4. The footers were the same as the Home page for consistency. Tested and working.
+
+
+The website was tested on various devicdes as explained above and found to be working on all formats.
