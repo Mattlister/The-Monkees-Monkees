@@ -26,7 +26,7 @@ The navigation bar has 5 headed titles. One is the title and also a link back to
 you to the rest of the site pages.
 
 Below the image are 4 individual paragraphs and a button underneath each one. The paragraphs contain information about each band member
-and you'll notice they line up with the relevant member in the photo. The paragrpah contains a short piece of information about them each. 
+and you'll notice they line up with the relevant member in the photo. The paragrpah contains a short piece of information about each one. 
 
 The button underneath displays the members names and clicking on each one brings up a modal card with an image of that band member 
 and some more information. You'll notice when clicking on the modal button, along with the image, there's colour to the background 
@@ -56,16 +56,17 @@ Underneath the black and white image, there's a grid system set of 3. On the lef
 booking button. Clicking on here brings up a fully functional booking form within a Modal card. You can add an email address, choose how many hours 
 you'd like the band to play. You can choose the event such as a wedding or a party and also add extra imformation before submitting.
 
-Then a colourful image of the band in their youthful days stands out in the centre of the page. Then, there's
+Then a colourful image of the band in their youthful days stands out in the centre of the page. Then, there's a
 third column with a message from the band. They love to hear from their fans and using the 'Get In Touch' button, you can do that to send a message
-and say hello. Tell them how their music speaks to you and how you've been a fan of this outstanding band. The social media links complete the page.
+and say hello. Tell them how their music speaks to you and how you've been a fan of this outstanding band. A designed close button sits in each Modal card.
+The social media links complete the page.
 
 ###Touring
 
 This band has been touring for over 50 years and even as a twosome, they still have the passion to do it. The usual image spreads across the page
 below the Navigation bar and below the image sits 3 columns again. Staying consistent with the rest of the site, there's 2 paragraphs of information
 on each side of an image of the band playing live. Below the paragraphs, there's 2 Modal content buttons. Clicking on the 'Australian Tour Dates' 
-button brings up a Modal card of their Australina dates and the same can be show in Blue for the 'American Tour Dates' 
+button brings up a Modal card of their Australian dates and the same can be seen in Blue for the 'American Tour Dates' 
 Again, each Modal card has a blue and a green background to tie into their respective buttons and staying the same throughout the website. A designed
 close button can then be found at the bottom.
 
@@ -77,7 +78,7 @@ follow the band as the remaining members continue to tour. I wanted the site to 
 
 •	Showcase the band 
 
-•	Allow the users to follow them, purchase items or arrange private bookings
+•	Allow the user to follow them, purchase items or arrange private bookings
 
 •	Nice design that allows each user to move around the site comfortably. This is designed for fans of all ages.
 
@@ -93,16 +94,16 @@ image and as you scroll down each page, you can find out more and look at produc
 
 My initial design was all done by hand with a layout in mind. When I first started my project and spoke to my Mentor, I had 
 various ideas of how I wanted the page to look with a strong background image to showcase the look of the band. Showing 
-togetherness and them at the height of their career. The black and white image provided for the course I found 
+togetherness and them at the height of their career. The black and white image provided from course material I found 
 to be perfect, it’s clean, crisp and there seems to be passion behind the photo. 
 
 The movement of the page is subtle but sharp and the static image against a moving page adds a professional element to the site. 
 
-I wanted the site to be easy to use for all users of all ages. The Monkees will always have older fans naturally due to when 
-they were popular and so this site has been developed with that in mind. A user could easily find their way around and the 
-page isn’t overloaded with information. There’s short simple info about the band members for a user but the option to 
-find out more is available via social media links. Newer fans can use these links to get to each page and so YouTube, Facebook 
-and Twitter page are available to find tour dates, hear their music and purchase merchandise direct.
+he Monkees will always have older fans naturally due to when they were popular and so this site has been developed with that in mind. 
+A user of any age could easily find their way around and the pages aren’t overloaded with information. There’s short simple info piece 
+about the band members for a user but the option to find out more is available via social media links. Newer fans can use these links 
+to get to each page and so YouTube, Facebook and Twitter page are available to find tour dates, hear their music and purchase merchandise 
+direct.
 
 ###Site Interactivity and Features
 
@@ -110,20 +111,15 @@ Interactivity has been a key feature for the website. There's working Modals on 
 card that appears then contains a new snippet of inormation that refrences the band. Also, there's a working playable video on the homepage
 for their classic hit "Daydream Believer"
 
-Across the entire site, each page has Modql cards. Each card shows an image, information or a list. On the contact us page, there's a working
+Across the entire site, each page has Modal cards. Each card shows an image, information or a list. On the contact us page, there's a working
 form and a contact us page.
 
 
 ###Programming Languges Used
 
-I used elements of HTML along  body of the site and some some CSS to link the media pages and bootstrap for some of the content.
+HTML as the industry standard holds the content for the website. CSS has been used for styling for the body content of the site
+body of the site. Bootstrap has been used for the layour and to addd grids lay the page out so it displays on screen with fluid design.
 
-
-The more in depth information for the home page for the band linked to the band members Wikipedia pages:
-
-Media
-
-The music video and images used within the site were all provided through the course I’m studying.
 
 
 ##The goals for the website are:
@@ -134,8 +130,6 @@ The ability to contact the band and book them for events or purchase music and o
 A simple UX design which opens new and old fans to the band so they can enjoy their music for the first time or fall in love with them all over again.
 
 The customer goals of this website are:
-
-UX
 
 ##Ideal site visitors
 
@@ -155,28 +149,6 @@ Allows the user to work through the site with an easy to understand front end de
 Provides the user the information they need without it being overwhelming.
 Booking forms and Get in touch forms are clear and concise if you wanted to book the band. Modal cards are easy to read through as well/
 
-##Pages designed for the project:
-
-Home
-Our Merchandise
-Get in touch
-Touring
-
-Each page features a responsive navigation bar and the menu converts to a drop down menu on smaller screens. The pages each have a footer with 
-social media icons linking to the bands media pages and a simple Designed by Matthew Lister 2019 reference.
-
-__Each page has the same main image at the top to add consistency through the site.
-
-Under each page, the content varies slightly.
-
-
-
-
-Contact
-The Contact page features a contact form, which requests client name and email, p that a box to leave a message. At 
-
-
-The bottom of the form contains a Submit Button
 
 Deployment
 
