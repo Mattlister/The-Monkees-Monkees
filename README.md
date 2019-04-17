@@ -118,7 +118,7 @@ form and a contact us page.
 ###Programming Languges Used
 
 HTML as the industry standard holds the content for the website. CSS has been used for styling for the body content of the site
-body of the site. Bootstrap has been used for the layour and to addd grids lay the page out so it displays on screen with fluid design.
+body of the site. BootstrapCDN has been used for the layout to add grid layout to the pages so it displays on screen with responsive fluid design.
 
 
 
@@ -157,6 +157,9 @@ This project was developed using the Cloud9 development software and then stored
 The project was regularly pushed to GitHub repository https://github.com/Mattlister/The-Monkees-Monkees and 
 published to GitHub pages using the GitHub settings.
 
+Testing
+
+Testing information can be found in my Testing.md file
 
 Credits
 
@@ -174,10 +177,13 @@ Some CSS code and Bootstrap was originally taken from Bootstrap 4 and W3C School
 
 Acknowledgements
 
-I'd like to say than you to My mentor Simen Daehlinwho reviewed my site and helped me towards restructuring the entire website with Bootstrap 4
+I'd like to say than you to My mentor Simen Daehlin who reviewed my site and helped me towards restructuring the entire website with Bootstrap 4
 rather than 3 and advising me on new code I should have been using. I also want to say thank you to Anna Greaves who one day reviewed my site and 
-advised me that I needed to make some drastic changes, helped me to kick start changes and advised me on speaking to Simen.
+advised me that I needed to make some drastic changes, helped me to kick start those changes and advised me on speaking to Simen.
 
 Disclaimer
 
 The content of this Website is for educational purposes only.
+
+
+
