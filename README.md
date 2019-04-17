@@ -4,12 +4,12 @@
 
 
 The project I’ve designed is my first milestone project for the User Centric Frontend Development module of the Full Stack Developer Course. 
-I’ve used Bootstrap as the main backbone language allowing functionality and responsive design which sits in an HTML shell and with added
+I’ve used Bootstrap as the main backbone language allowing functionality and responsive design which sits in an HTML shell with added
 elements of CSS to add styling. The page consists of 4 pages. They include a Home page, a Merchandise page a Touring page and a Contact Us page.
 
 The site includes a music video of the band performing one of their songs. Information about the 4 members. Where you can see them playing 
-live and how you can contact them if you wanted to book them to perform. There’s also interactive content and links to their own Monkees sites 
-so you can review them in their genuine environment and not just this mockup site.
+live and how you can contact them if you want to book them to perform. There’s also interactive content and links to their own Monkees sites 
+so you can review them in their genuine environment and not just within this mockup site.
 
 ###How I’d like the website to be perceived:
 
@@ -26,7 +26,7 @@ The navigation bar has 5 headed titles. One is the title and also a link back to
 you to the rest of the site pages.
 
 Below the image are 4 individual paragraphs and a button underneath each one. The paragraphs contain information about each band member
-and you'll notice they line up with the relevant member in the photo. The paragrpah contains a short piece of information about each one. 
+and you'll notice they line up with the relevant member in the photo. The pararapah contains a short piece of information about each one. 
 
 The button underneath displays the members names and clicking on each one brings up a modal card with an image of that band member 
 and some more information. You'll notice when clicking on the modal button, along with the image, there's colour to the background 
