@@ -20,7 +20,7 @@ so you can review them in their genuine environment and not just within this moc
 
 * Nice UX design that is easy to follow and engaging. 
 
-### Home Page
+### [Home Page] (https://mattlister.github.io/The-Monkees-Monkees/index.html)
 
 On the Home Page, a deep grey colour navigation bar sits above a striking black and white image of the band performing in concert.
 The navigation bar has 5 headed titles. One is the title and also a link back to the home page as well as 4 other titled links taking
@@ -39,7 +39,7 @@ their biggest songs. As a bright and colourful video, it stands out so you focus
 Then at the very bottom there are three social media links which take you to their Facebook, Twitter and YouTube pages respectively.
 The link images are from Font Awesome and are on each page for consistency.
 
-### Our Merchandise
+### [Our Merchandise] (https://mattlister.github.io/The-Monkees-Monkees/merchandise.html)
 
 This page again has the large black and white image below the navigation bar. As you scroll down, you'll see 8 individual paragraphs
 divided into two lines of four. In each paragraph, there's an image of either a record or a poster that can be purchased. 
@@ -51,7 +51,7 @@ Modal card have a green background to match their green 'Order Here'buttons. In 
 correspondig in colour to the rest of the content. Below these 8 images, there is again the social medial links with the Font Awesome 
 icons.
 
-### Get in Touch
+### [Get in Touch] (https://mattlister.github.io/The-Monkees-Monkees/contact.html)
 
 A page designed allowing fans to contact the band for either a booking or just to say Hi!! 
 
@@ -64,7 +64,7 @@ third column with a message from the band. They love to hear from their fans and
 and say hello. Tell them how their music speaks to you and how you've been a fan of this outstanding band. A designed close button sits in each Modal 
 card. The social media links complete the page.
 
-### Touring
+### [Touring] (https://mattlister.github.io/The-Monkees-Monkees/touring.html)
 
 This band has been touring for over 50 years and even as a twosome, they still have the passion to do it. The usual image spreads across the page
 below the Navigation bar and below the image sits 3 columns again. Staying consistent with the rest of the site, there's 2 paragraphs of information
@@ -80,9 +80,9 @@ I made the website for the fans and tried to make it look up to date with easy t
 platform website as you can link here and then go on to other pages to find more in depth information, opportunities to purchase memorabilia and 
 follow the band as the remaining members continue to tour. I wanted the site to be easy to use for all users of all ages and so to:
 
-* howcase the band 
+* Showcase the band 
 
-* llow the user to follow them, purchase items or arrange private bookings
+* Allow the user to follow them, purchase items or arrange private bookings
 
 * Nice design that allows each user to move around the site comfortably. This is designed for fans of all ages.
 
