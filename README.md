@@ -40,7 +40,7 @@ their biggest songs. As a bright and colourful video, it stands out so you focus
 Then at the very bottom there are three social media links which take you to their Facebook, Twitter and YouTube pages respectively.
 The link images are from Font Awesome and are on each page for consistency.
 
-### [Our Merchandise] (https://mattlister.github.io/The-Monkees-Monkees/merchandise.html)
+### [Our Merchandise](https://mattlister.github.io/The-Monkees-Monkees/merchandise.html)
 
 This page again has the large black and white image below the navigation bar. As you scroll down, you'll see 8 individual paragraphs
 divided into two lines of four. In each paragraph, there's an image of either a record or a poster that can be purchased. 
@@ -52,7 +52,7 @@ Modal card have a green background to match their green 'Order Here'buttons. In 
 correspondig in colour to the rest of the content. Below these 8 images, there is again the social medial links with the Font Awesome 
 icons.
 
-### [Get in Touch] https://mattlister.github.io/The-Monkees-Monkees/contact.html
+### [Get in Touch](https://mattlister.github.io/The-Monkees-Monkees/contact.html)
 
 A page designed allowing fans to contact the band for either a booking or just to say Hi!! 
 
@@ -65,7 +65,7 @@ third column with a message from the band. They love to hear from their fans and
 and say hello. Tell them how their music speaks to you and how you've been a fan of this outstanding band. A designed close button sits in each Modal 
 card. The social media links complete the page.
 
-### [Touring] (https://mattlister.github.io/The-Monkees-Monkees/touring.html)
+### [Touring](https://mattlister.github.io/The-Monkees-Monkees/touring.html)
 
 This band has been touring for over 50 years and even as a twosome, they still have the passion to do it. The usual image spreads across the page
 below the Navigation bar and below the image sits 3 columns again. Staying consistent with the rest of the site, there's 2 paragraphs of information
