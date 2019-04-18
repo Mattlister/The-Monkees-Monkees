@@ -20,7 +20,7 @@ so you can review them in their genuine environment and not just within this moc
 
 * Nice UX design that is easy to follow and engaging. 
 
-### [Home Page] (https://mattlister.github.io/The-Monkees-Monkees/index.html)
+### [Home Page] [https://mattlister.github.io/The-Monkees-Monkees/index.html]
 
 On the Home Page, a deep grey colour navigation bar sits above a striking black and white image of the band performing in concert.
 The navigation bar has 5 headed titles. One is the title and also a link back to the home page as well as 4 other titled links taking
