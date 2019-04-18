@@ -51,7 +51,7 @@ Modal card have a green background to match their green 'Order Here'buttons. In 
 correspondig in colour to the rest of the content. Below these 8 images, there is again the social medial links with the Font Awesome 
 icons.
 
-### [Get in Touch] (https://mattlister.github.io/The-Monkees-Monkees/contact.html)
+### [Get in Touch] https://mattlister.github.io/The-Monkees-Monkees/contact.html
 
 A page designed allowing fans to contact the band for either a booking or just to say Hi!! 
 
