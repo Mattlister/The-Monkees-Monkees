@@ -162,6 +162,44 @@ This project was developed using the Cloud9 development software and then stored
 The project was regularly pushed to GitHub repository https://github.com/Mattlister/The-Monkees-Monkees and 
 published to GitHub pages using the GitHub settings.
 
+## Uploading to Github
+
+I used and configured GitHub Pages to publish my site's source files from my master branch folder named the-band. This is in Cloud9 folder 
+for all my Project Pages that were under that umbrella.
+
+Publishing my source files is dependent on my site type as in what language the code is developed in and the site type I have in 
+my repository.
+
+To enable my GitHub Pages to be published, I have a master branch in my repository.
+
+To access my GitHub Pages site's repository.
+
+I access my repository name and click Settings.
+
+Repository settings button
+
+Use the Select source drop-down menu to select master or gh-pages as your GitHub Pages publishing source.
+
+select-gh-pages-or-master-as-source
+
+* Click Save.
+
+* I then Published my GitHub Pages site from my docs folder in my master branch and published the source files from the 
+  docs folder in my master branch. I had to have a master branch containing all the data.
+
+* GitHub Pages reads everything when publishing a site, including the CNAME file, from the /docs folder. Every change is updated
+ so every step taken and evey edit is documented.
+
+
+I used default commands to push to Github such as:
+
+* git status when checking what needed uploading.
+* git commit -m "" with the named update between the quotes for anyone reading what changes I made. A short piece of info helps understand
+* the changes I make.
+* git push -u origin master which then pushes my update and I then need to enter my username and password for security.
+* git rm used to remove data if I added too many commits before uploading to the branch.
+
+
 ## Testing
 
 Testing information can be found in my Testing.md file
