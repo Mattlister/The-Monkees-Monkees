@@ -205,8 +205,7 @@ I used default commands to push to Github such as:
 
 ## Testing
 
-Testing information can be found in my [TESTING.MD}(https://github.com/Mattlister/The-Monkees-Monkees/blob/master/TESTING.MD)
-
+Testing information can be found in my [TESTING.MD](https://github.com/Mattlister/The-Monkees-Monkees/blob/master/TESTING.md) file
 
 ### Content
 
