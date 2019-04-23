@@ -124,8 +124,8 @@ form and a contact us page.
 
 * HTML
 * CSS 
-* Bootstrap 4
-* Font Awesome 
+* [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+* [Font Awesome](https://fontawesome.com/start)
 
 
 
