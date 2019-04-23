@@ -1,6 +1,6 @@
 # The Monkees Website
 
-## Please view the Website in GitHub pages
+
 
 [My page](https://mattlister.github.io/The-Monkees-Monkees/)
 
@@ -205,7 +205,7 @@ I used default commands to push to Github such as:
 
 ## Testing
 
-Testing information can be found in my Testing.md file
+Testing information can be found in my [TESTING.MD}(https://github.com/Mattlister/The-Monkees-Monkees/blob/master/TESTING.MD)
 
 
 ### Content
