@@ -6,8 +6,8 @@
 
 The Monkees and the Home page hold the same info as I didn't want the title to be a non existent part of the design and so adding the
 link for the home page gives it functionality. These pages offer an insight into the band and so having them both working was important
-as they're the starting guide for the user. I created a testing.html page so I could break as I added info before running changes in the main
-pages of the website.
+as they're the starting guide for the user. I created a testing.html page so I could break this page as I added info before running changes 
+in the main pages of the website.
 
 ## Testing Navigation
 
@@ -38,24 +38,25 @@ monitors.
 ### Home Page:
 
 When I first started the site, my original design was done in Bootstrap 3 but after a review by my newest Mentor, he advised to update to Bootstrap
-4CDN and I had so much more scope on what I was able to achieve.
+4 and I had so much more scope on what I was able to achieve.
 
   * The Navigation Bar
-   I added a Navigation Bar which I originally took from the BootstrapCDN website. I then re-designed the entire layout. It was white with blue writing
-   with elements which weren't at all needed. There was also subject options and I changed it to Black, white writing and added links to each option.
-   Once designed, I made the Navigational bar static so the user could always find their way around the site. Each change made needed a test to be 
-   carried out. As I was doing this, I renamed the web pages to a different format so they were all lower case. These changes also needed to be tested 
-   as the back end as well as the front end was changing.Adding Font Awesome icons to the navigation bar also changed as I was using newer icons to work
-   with the new Bootstrap 4CDN layout so these all needed to be changed so there were mutliple elements to test as I worked on the navigation bar alone.
+   I added a Navigation Bar which I originally took from the Bootstrap website. I then re-designed the entire layout. It was white with blue writing
+   with elements which weren't at all needed. There was also subject options and I changed it to a black background, white writing and added links to 
+   each option. Once designed, I made the Navigational bar static so the user could always find their way around the site. Each change made needed a 
+   test to be carried out. As I was doing this, I renamed the web pages to a different format so they were all lower case. These changes also needed 
+   to be tested as the back end as well as the front end was changing. Adding Font Awesome icons to the navigation bar also changed as I was using
+   newer icons to work with the new Bootstrap 4 layout so these all needed to be changed as there were mutliple elements to test as I worked on 
+   the navigation bar alone.
 
- * The main Hero Image. As I wanted this to technically be a static image, it took some figuring out within the CSS to have it as a non movng image but
-   the rest of the page moves around it. As I worked on this, it wasn't always the case and also, with the Navigation bad, I should have mentioned that 
+ * The main Hero Image. As I wanted this to technically be a static image, it took some figuring out within the CSS to have it as a non movng image with
+   the rest of the page moves around it. As I worked on this, it wasn't always the case and also, with the Navigation bar, I should have mentioned that 
    these didn't always sit right togehter. There was padding and so a white gap between the Navigation bad and image so I had to correct this for it to 
    display correctly across the entire website.
 
  * Spacing for the paragraphs and Modal buttons. Well, on this case there were some major changes made. I was developing my site with Bootstrap 3, old
    design tags such as <br> and <center> to put it together. When my newest Mentor spent time and reviewed the code, he spotted all these "flaws" instantly
-   and advised me of the changed I needed to make. So, with some time, I learnt how to use the grid layout for Bootstrap 4CDN which as I found was the 
+   and advised me of the changed I needed to make. So, with some time, I learnt how to use the grid layout for Bootstrap 4 which as I found was the 
    industry standard and provided me with much more functionality. I was able to design easier using layouts and so this proved indespensable in my learning
    and testing of the website. Before I had made the change to the grid system, I was already using Modals in my site as this was an extremley well laid out 
    format of bringing up extra information and adding interactivity to the site. Once I had the grid system worked out and in place, I could then integrate 
@@ -89,7 +90,7 @@ When I first started the site, my original design was done in Bootstrap 3 but af
 
 ### Get in Touch
 
- * The Navigation Bar. The same testing was carried out as the homr page through out the site. Tested and working.
+ * The Navigation Bar. The same testing was carried out as the home page through out the site. Tested and working.
 
  * The main Hero Image was again, consitently tested throughout the site. Tested and working.
 
@@ -105,11 +106,11 @@ When I first started the site, my original design was done in Bootstrap 3 but af
 
 ### Touring
 
- * The Navigation Bar. The same testing was carried out as the homr page through out the site. Tested and working.
+ * The Navigation Bar. The same testing was carried out as the home page through out the site. Tested and working.
 
  * The main Hero Image was again, consitently tested throughout the site. Tested and working.
 
- * Adding thr touring buttons and testing was a much simpler process than the booking forms but still required a grid system and Modals. These again
+ * Adding the touring buttons and testing was a much simpler process than the booking forms but still required a grid system and Modals. These again
    had to be added in the correct manner so the page laid out correctly and even though I said it was simpler, there were still moments when I was
    scratching my head. Once the layout was working correctly and there was a functional Modal, I then designed it the same as the other with CSS.
 
